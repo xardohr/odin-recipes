@@ -1,0 +1,40 @@
+#universal{
+    background-color: rgb(186, 195, 197);
+}
+
+h1{
+    position:absolute;
+    font-family:cursive;
+    border:3px solid gray;
+    border-radius: 500px;
+    display:block;
+    padding: 5px;
+    margin-left: 80px;
+    background-color: rgb(145, 139, 139);
+}
+
+img{
+    margin-top: 80px;
+}
+
+.list,
+.class-margin{
+    color:black
+    background-color: rgb(224, 212, 212);
+
+}
+
+ul{
+    border:2px solid black;
+   
+}
+ol{
+    border: 2px solid black;
+}
+
+#header-title{
+    font-size: 30px;
+}
+.ing-steps{
+    font-size: 20px;
+}
